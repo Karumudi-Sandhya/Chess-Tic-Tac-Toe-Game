@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Advanced Chess Tic Tac Toe</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="game-card">
+  <h2>Chess Tic Tac Toe</h2>
+
+  <div class="players">
+    <input type="text" id="p1" placeholder="Player 1 Name" value="Knight">
+    <input type="text" id="p2" placeholder="Player 2 Name" value="King">
+  </div>
+
+  <div class="score">
+    <span id="score1">0</span> :
+    <span id="score2">0</span>
+  </div>
+
+  <div class="board">
+    <div data-cell></div>
+    <div data-cell></div>
+    <div data-cell></div>
+    <div data-cell></div>
+    <div data-cell></div>
+    <div data-cell></div>
+    <div data-cell></div>
+    <div data-cell></div>
+    <div data-cell></div>
+  </div>
+
+  <p id="status">Knight's Turn ♞</p>
+
+  <div class="buttons">
+    <button onclick="restartRound()">Restart Round</button>
+    <button onclick="resetAll()">Reset All</button>
+  </div>
+</div>
+
+<footer>Mini Project – Frontend Game</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
