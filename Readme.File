@@ -1,23 +1,23 @@
-## Chess Tic Tac Toe Game
-Tic Tac Toe Game – 
+## Chess Tic-Tac-Toe Game
+## Tic Tac Toe Game
 
 This project is a web-based Tic Tac Toe game developed using HTML, CSS, and JavaScript.
 The game enhances the traditional Tic Tac Toe by adding player team names, score tracking, and improved user interaction.
 
-Product Overview
+## Product Overview
 
-This application is an interactive two-player Tic Tac Toe game played in a browser.
+* This application is an interactive two-player Tic Tac Toe game played in a browser.
 
-Players can enter custom team names before starting the game.
+* Players can enter custom team names before starting the game.
 
-The game tracks points for each team across multiple rounds.
+* The game tracks points for each team across multiple rounds.
 
-It provides instant feedback for wins, draws, and turns.
+* It provides instant feedback for wins, draws, and turns.
 
-The project focuses on logic building, UI interaction, and game state management.
+* The project focuses on logic building, UI interaction, and game state management.
 
-✨ Features Implemented
-🧾 Game Information
+## ✨ Features Implemented
+🧾**Game Information** 
 
 3×3 Tic Tac Toe game board
 
